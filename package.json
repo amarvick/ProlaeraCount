@@ -1,0 +1,23 @@
+{
+  "name": "projectlaera",
+  "version": "1.0.0",
+  "description": "Cool project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[A\u001b[B\u001b[A\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[B\u001b[C"
+  },
+  "author": "Alex Marvick",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongodb": "^2.2.30",
+    "mongoose": "^4.11.1",
+    "pug": "^2.0.0-rc.2"
+  }
+}
